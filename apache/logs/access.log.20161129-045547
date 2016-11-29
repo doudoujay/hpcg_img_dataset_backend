@@ -1,0 +1,2 @@
+128.211.233.228 - - [29/Nov/2016:04:55:46 +0000] "GET / HTTP/1.1" 200 240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+128.211.233.228 - - [29/Nov/2016:04:55:49 +0000] "GET /favicon.ico HTTP/1.1" 404 461 "http://hpcg.doudoujay.com:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"

@@ -1,0 +1,61 @@
+[Fri Oct 21 17:47:40.813122 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Oct 21 17:47:40.813673 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621] Traceback (most recent call last):
+[Fri Oct 21 17:47:40.813759 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2000, in __call__
+[Fri Oct 21 17:47:40.814660 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return self.wsgi_app(environ, start_response)
+[Fri Oct 21 17:47:40.814708 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1991, in wsgi_app
+[Fri Oct 21 17:47:40.814756 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     response = self.make_response(self.handle_exception(e))
+[Fri Oct 21 17:47:40.814790 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Fri Oct 21 17:47:40.815195 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return original_handler(e)
+[Fri Oct 21 17:47:40.815238 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Fri Oct 21 17:47:40.815429 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Fri Oct 21 17:47:40.815469 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1567, in handle_exception
+[Fri Oct 21 17:47:40.815513 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     reraise(exc_type, exc_value, tb)
+[Fri Oct 21 17:47:40.815545 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Fri Oct 21 17:47:40.815585 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return self.handle_error(e)
+[Fri Oct 21 17:47:40.815616 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Fri Oct 21 17:47:40.815655 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     response = self.full_dispatch_request()
+[Fri Oct 21 17:47:40.815686 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Fri Oct 21 17:47:40.815725 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     rv = self.handle_user_exception(e)
+[Fri Oct 21 17:47:40.815755 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Fri Oct 21 17:47:40.815794 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return original_handler(e)
+[Fri Oct 21 17:47:40.815825 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Fri Oct 21 17:47:40.815864 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Fri Oct 21 17:47:40.815904 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Fri Oct 21 17:47:40.815957 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     reraise(exc_type, exc_value, tb)
+[Fri Oct 21 17:47:40.815989 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Fri Oct 21 17:47:40.816029 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return self.handle_error(e)
+[Fri Oct 21 17:47:40.816060 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Fri Oct 21 17:47:40.816099 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     rv = self.dispatch_request()
+[Fri Oct 21 17:47:40.816131 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Fri Oct 21 17:47:40.816170 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return self.view_functions[rule.endpoint](**req.view_args)
+[Fri Oct 21 17:47:40.816200 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 477, in wrapper
+[Fri Oct 21 17:47:40.816239 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     resp = resource(*args, **kwargs)
+[Fri Oct 21 17:47:40.816270 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask/views.py", line 84, in view
+[Fri Oct 21 17:47:40.816442 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     return self.dispatch_request(*args, **kwargs)
+[Fri Oct 21 17:47:40.816481 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 587, in dispatch_request
+[Fri Oct 21 17:47:40.816523 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     resp = meth(*args, **kwargs)
+[Fri Oct 21 17:47:40.816556 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/srv/www/app/main.py", line 62, in put
+[Fri Oct 21 17:47:40.816641 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     writeJsonToFile(dataDict, imageDataName)
+[Fri Oct 21 17:47:40.816678 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]   File "/srv/www/app/main.py", line 25, in writeJsonToFile
+[Fri Oct 21 17:47:40.816718 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621]     with io.open(filePath, 'wb') as outfile:
+[Fri Oct 21 17:47:40.816792 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621] IOError: [Errno 13] Permission denied: '/srv/www/app/static/data/imgData/IMG_0118.JPG.json'
+[Fri Oct 21 20:29:59.407607 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info
+[Sun Oct 23 16:59:41.517989 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Tue Oct 25 01:59:46.755286 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Tue Oct 25 18:35:51.710980 2016] [wsgi:error] [pid 12:tid 140408803903232] send img info
+[Tue Oct 25 18:35:58.963671 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Tue Oct 25 18:35:59.299445 2016] [wsgi:error] [pid 12:tid 140408803903232] send img info
+[Wed Oct 26 19:42:02.489756 2016] [wsgi:error] [pid 12:tid 140408803903232] send img info
+[Thu Oct 27 20:43:28.699593 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Thu Oct 27 20:52:51.679958 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Thu Oct 27 20:52:51.683117 2016] [wsgi:error] [pid 12:tid 140408795502336] [remote 128.211.233.228:31621] IOError: failed to write data
+[Fri Oct 28 03:35:33.848968 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Fri Oct 28 03:35:36.293327 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info
+[Fri Oct 28 03:35:37.581736 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Sat Oct 29 02:31:43.572901 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info
+[Tue Nov 01 16:45:17.726988 2016] [wsgi:error] [pid 12:tid 140408795502336] send img info
+[Wed Nov 02 01:55:47.328068 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info
+[Thu Nov 03 03:53:52.429263 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info
+[Thu Nov 03 17:04:48.183672 2016] [wsgi:error] [pid 12:tid 140408803903232] send img info
+[Fri Nov 04 19:34:33.877156 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info
+[Mon Nov 07 03:19:51.100102 2016] [wsgi:error] [pid 12:tid 140408904697600] send img info

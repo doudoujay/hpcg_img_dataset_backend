@@ -86,9 +86,20 @@ class Batch:
     def ifBatchInProgress(self, batchObj, type):
         return batchObj['current'][type] < (batchObj['total'] - 1)
 
-    def userBatchPrograss(self, type, userid):
+    def userBatchProgress(self, type, userid):
         batchObj = self.userCurrentBatch(type, userid)
         return float(batchObj['current'][type] + 1) / float(batchObj['total'])
+
+    def userBatchProgressIncrement(self,type,userid):
+        # TODO: Test this
+        batchObj = self.userCurrentBatch(type, userid)
+        for index,targetObj in enumerate(self.batches):
+            if targetObj == batchObj:
+                batchObj['current'][type] += 1
+                self.batches[index] = batchObj
+                self.save()
+                return float(batchObj['current'][type] + 1) / float(batchObj['total'])
+
 
     def assignBatchByUser(self, userid):
         # Change ONLY one batchObj
@@ -183,15 +194,21 @@ class generateBatchs(Resource):
 
 
 class userBatchPrograss(Resource):
+    def get(self):
+        headers = request.headers
+        if headers:
+            userid = headers['userid']
+            type = headers['type']
+            batch = Batch()
+            return batch.userBatchProgress(type, userid)
     def put(self):
         data = request.data
         if data:
             dataDict = json.loads(data)
-            type = dataDict['type']
             userid = dataDict['userid']
+            type = dataDict['type']
             batch = Batch()
-            return batch.userBatchPrograss(type, userid)
-
+            return batch.userBatchProgressIncrement(type, userid)
 
 api.add_resource(images, '/images')
 api.add_resource(imageData, '/imageData/<string:imageDataName>')

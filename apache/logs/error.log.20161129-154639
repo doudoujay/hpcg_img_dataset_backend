@@ -1,0 +1,2 @@
+[Tue Nov 29 15:46:39.913635 2016] [wsgi:error] [pid 12:tid 139726063892224] [remote 128.211.233.228:26240] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Tue Nov 29 15:46:39.914068 2016] [wsgi:error] [pid 12:tid 139726063892224] [remote 128.211.233.228:26240] IOError: failed to write data

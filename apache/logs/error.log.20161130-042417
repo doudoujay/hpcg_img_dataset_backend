@@ -1,0 +1,82 @@
+[Wed Nov 30 04:24:17.724302 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Wed Nov 30 04:24:17.725819 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917] Traceback (most recent call last):
+[Wed Nov 30 04:24:17.725957 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2000, in __call__
+[Wed Nov 30 04:24:17.729081 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return self.wsgi_app(environ, start_response)
+[Wed Nov 30 04:24:17.729209 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1991, in wsgi_app
+[Wed Nov 30 04:24:17.729318 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     response = self.make_response(self.handle_exception(e))
+[Wed Nov 30 04:24:17.729386 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Wed Nov 30 04:24:17.730545 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return original_handler(e)
+[Wed Nov 30 04:24:17.730642 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Wed Nov 30 04:24:17.731957 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Wed Nov 30 04:24:17.732058 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1567, in handle_exception
+[Wed Nov 30 04:24:17.732156 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     reraise(exc_type, exc_value, tb)
+[Wed Nov 30 04:24:17.732221 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Wed Nov 30 04:24:17.732300 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return self.handle_error(e)
+[Wed Nov 30 04:24:17.732359 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Wed Nov 30 04:24:17.732459 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     response = self.full_dispatch_request()
+[Wed Nov 30 04:24:17.732528 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Wed Nov 30 04:24:17.732606 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     rv = self.handle_user_exception(e)
+[Wed Nov 30 04:24:17.732665 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Wed Nov 30 04:24:17.732739 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return original_handler(e)
+[Wed Nov 30 04:24:17.732797 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Wed Nov 30 04:24:17.732871 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Wed Nov 30 04:24:17.732928 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Wed Nov 30 04:24:17.733001 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     reraise(exc_type, exc_value, tb)
+[Wed Nov 30 04:24:17.733095 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Wed Nov 30 04:24:17.733205 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return self.handle_error(e)
+[Wed Nov 30 04:24:17.733299 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Wed Nov 30 04:24:17.733417 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     rv = self.dispatch_request()
+[Wed Nov 30 04:24:17.733484 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Wed Nov 30 04:24:17.733561 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return self.view_functions[rule.endpoint](**req.view_args)
+[Wed Nov 30 04:24:17.733620 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 477, in wrapper
+[Wed Nov 30 04:24:17.733693 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     resp = resource(*args, **kwargs)
+[Wed Nov 30 04:24:17.733751 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask/views.py", line 84, in view
+[Wed Nov 30 04:24:17.734136 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return self.dispatch_request(*args, **kwargs)
+[Wed Nov 30 04:24:17.734213 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 587, in dispatch_request
+[Wed Nov 30 04:24:17.734296 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     resp = meth(*args, **kwargs)
+[Wed Nov 30 04:24:17.734356 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/srv/www/app/main.py", line 212, in put
+[Wed Nov 30 04:24:17.734618 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return batch.userBatchProgressUpdate(type, userid, value)
+[Wed Nov 30 04:24:17.734691 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]   File "/srv/www/app/main.py", line 101, in userBatchProgressUpdate
+[Wed Nov 30 04:24:17.734771 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917]     return float(batchObj['current'][type] + 1) / float(batchObj['total'])
+[Wed Nov 30 04:24:17.734918 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:21917] TypeError: coercing to Unicode: need string or buffer, int found
+[Wed Nov 30 04:26:07.995050 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Wed Nov 30 04:26:07.995439 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845] Traceback (most recent call last):
+[Wed Nov 30 04:26:07.995523 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2000, in __call__
+[Wed Nov 30 04:26:07.995674 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return self.wsgi_app(environ, start_response)
+[Wed Nov 30 04:26:07.995708 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1991, in wsgi_app
+[Wed Nov 30 04:26:07.995753 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     response = self.make_response(self.handle_exception(e))
+[Wed Nov 30 04:26:07.995801 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Wed Nov 30 04:26:07.995862 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return original_handler(e)
+[Wed Nov 30 04:26:07.995899 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Wed Nov 30 04:26:07.995961 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Wed Nov 30 04:26:07.995993 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1567, in handle_exception
+[Wed Nov 30 04:26:07.996039 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     reraise(exc_type, exc_value, tb)
+[Wed Nov 30 04:26:07.996069 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Wed Nov 30 04:26:07.996111 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return self.handle_error(e)
+[Wed Nov 30 04:26:07.996141 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Wed Nov 30 04:26:07.996178 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     response = self.full_dispatch_request()
+[Wed Nov 30 04:26:07.996206 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Wed Nov 30 04:26:07.996242 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     rv = self.handle_user_exception(e)
+[Wed Nov 30 04:26:07.996269 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Wed Nov 30 04:26:07.996304 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return original_handler(e)
+[Wed Nov 30 04:26:07.996330 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Wed Nov 30 04:26:07.996366 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Wed Nov 30 04:26:07.996393 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Wed Nov 30 04:26:07.996431 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     reraise(exc_type, exc_value, tb)
+[Wed Nov 30 04:26:07.996458 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Wed Nov 30 04:26:07.996493 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return self.handle_error(e)
+[Wed Nov 30 04:26:07.996520 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Wed Nov 30 04:26:07.996555 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     rv = self.dispatch_request()
+[Wed Nov 30 04:26:07.996582 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Wed Nov 30 04:26:07.996624 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return self.view_functions[rule.endpoint](**req.view_args)
+[Wed Nov 30 04:26:07.996671 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 477, in wrapper
+[Wed Nov 30 04:26:07.996716 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     resp = resource(*args, **kwargs)
+[Wed Nov 30 04:26:07.996753 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask/views.py", line 84, in view
+[Wed Nov 30 04:26:07.996800 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return self.dispatch_request(*args, **kwargs)
+[Wed Nov 30 04:26:07.996838 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 587, in dispatch_request
+[Wed Nov 30 04:26:07.996883 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     resp = meth(*args, **kwargs)
+[Wed Nov 30 04:26:07.996915 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/srv/www/app/main.py", line 212, in put
+[Wed Nov 30 04:26:07.996975 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return batch.userBatchProgressUpdate(type, userid, value)
+[Wed Nov 30 04:26:07.997007 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]   File "/srv/www/app/main.py", line 101, in userBatchProgressUpdate
+[Wed Nov 30 04:26:07.997043 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845]     return float(batchObj['current'][type] + 1) / float(batchObj['total'])
+[Wed Nov 30 04:26:07.997116 2016] [wsgi:error] [pid 12:tid 140482539169536] [remote 128.210.107.73:18845] TypeError: coercing to Unicode: need string or buffer, int found

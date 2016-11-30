@@ -95,7 +95,7 @@ class Batch:
         batchObj = self.userCurrentBatch(type, userid)
         for index, targetObj in enumerate(self.batches):
             if targetObj == batchObj:
-                batchObj['current'][type] = value
+                batchObj['current'][type] = int(value)
                 self.batches[index] = batchObj
                 self.save()
                 return float(batchObj['current'][type] + 1) / float(batchObj['total'])

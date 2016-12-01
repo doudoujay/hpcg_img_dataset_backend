@@ -81,10 +81,10 @@ class Batch:
         return self.assignBatchByUser(userid)
 
     def ifBatchCompleted(self, batchObj, type):
-        return batchObj['current'][type] == (batchObj['total'] - 1)
+        return batchObj['current'][type] > (batchObj['total'] - 1)
 
     def ifBatchInProgress(self, batchObj, type):
-        return batchObj['current'][type] < (batchObj['total'] - 1)
+        return batchObj['current'][type] <= (batchObj['total'] - 1)
 
     def userBatchProgress(self, type, userid):
         batchObj = self.userCurrentBatch(type, userid)

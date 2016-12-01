@@ -109,6 +109,8 @@ class Batch:
                 self.batches[index] = batchObj
                 self.save()
                 return batchObj
+    #     No remaining condition
+        return {}
 
     def save(self):
         writeJsonToFile(self.batches, 'batch', "/static/data/")

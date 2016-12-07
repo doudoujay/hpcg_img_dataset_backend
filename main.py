@@ -30,9 +30,9 @@ def loadJsonFileToData(imageDataName, dir):
     if os.path.exists(filePath):
         with io.open(filePath) as jsonData:
             return json.load(jsonData)
-        return []
+
     else:
-        pass
+        return []
 
 
 class Batch:
@@ -168,6 +168,7 @@ class imageQuikCategory(Resource):
             dataDict = json.loads(data)
             category = dataDict.keys()[0]
             existed = False
+            print dataOld
             for idx, val in enumerate(dataOld):
 
                 if category in val.keys():
@@ -182,7 +183,7 @@ class imageQuikCategory(Resource):
                 # Create New
                 dataOld.append(dataDict)
             writeJsonToFile(dataOld, imageDataName, "/static/data/quikCategory/")
-
+            return dataOld
 
 class generateBatchs(Resource):
     def put(self):

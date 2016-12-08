@@ -109,7 +109,7 @@ class Batch:
                 self.batches[index] = batchObj
                 self.save()
                 return batchObj
-    #     No remaining condition
+                #     No remaining condition
         return {}
 
     def save(self):
@@ -185,6 +185,7 @@ class imageQuikCategory(Resource):
             writeJsonToFile(dataOld, imageDataName, "/static/data/quikCategory/")
             return dataOld
 
+
 class generateBatchs(Resource):
     def put(self):
         data = request.data
@@ -215,12 +216,41 @@ class userBatchPrograss(Resource):
             return batch.userBatchProgressUpdate(type, userid, value)
 
 
+class userStatus(Resource):
+    def get(self):
+        batches = loadJsonFileToData('batch', "/static/data/")
+        headers = request.headers
+        if headers:
+            userid = headers['userid']
+            result = {
+                'img': {
+                    'annotated': 0,
+                    'left': 0,
+                    'total': len(img)
+                },
+                'batch': {
+                    'annotated': 0,
+                    'left': 0,
+                    'total': len(batches)
+                }
+            }
+            for batchObj in batches:
+                if batchObj['annotator'] == userid:
+                    result['batch']['annotated'] = result['batch']['annotated'] + 1
+                    result['img']['annotated'] = result['img']['annotated'] + batchObj['current']['objectAnnotator'] + 1
+            result['img']['left'] = result['img']['total'] - result['img']['annotated']
+            result['batch']['left'] = result['batch']['total'] - result['batch']['annotated']
+
+            return result
+
+
 api.add_resource(images, '/images')
 api.add_resource(imageData, '/imageData/<string:imageDataName>')
 api.add_resource(imageQuikCategory, '/imageQuikCategory/<string:imageDataName>')
 api.add_resource(generateBatchs, '/batch/generateBatchs')
 api.add_resource(userBatchPrograss, '/batch/userBatchPrograss')
 api.add_resource(userCurrentBatch, '/batch/userCurrentBatch')
+api.add_resource(userStatus, '/user/status')
 
 
 @app.route('/')

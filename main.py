@@ -222,6 +222,7 @@ class userStatus(Resource):
         headers = request.headers
         if headers:
             userid = headers['userid']
+            type = headers['type']
             result = {
                 'img': {
                     'annotated': 0,
@@ -237,7 +238,7 @@ class userStatus(Resource):
             for batchObj in batches:
                 if batchObj['annotator'] == userid:
                     result['batch']['annotated'] = result['batch']['annotated'] + 1
-                    result['img']['annotated'] = result['img']['annotated'] + batchObj['current']['objectAnnotator'] + 1
+                    result['img']['annotated'] = result['img']['annotated'] + batchObj['current'][type] + 1
             result['img']['left'] = result['img']['total'] - result['img']['annotated']
             result['batch']['left'] = result['batch']['total'] - result['batch']['annotated']
 

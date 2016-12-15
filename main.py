@@ -111,7 +111,6 @@ class Batch:
                 return batchObj
                 #     No remaining condition
         return {}
-
     def save(self):
         writeJsonToFile(self.batches, 'batch', "/static/data/")
 
@@ -218,6 +217,7 @@ class userBatchPrograss(Resource):
 
 class userStatus(Resource):
     def get(self):
+
         batches = loadJsonFileToData('batch', "/static/data/")
         headers = request.headers
         if headers:
@@ -232,13 +232,15 @@ class userStatus(Resource):
                 'batch': {
                     'annotated': 0,
                     'left': 0,
-                    'total': len(batches)
+                    'total': 0
                 }
             }
             for batchObj in batches:
                 if batchObj['annotator'] == userid:
                     result['batch']['annotated'] = result['batch']['annotated'] + 1
                     result['img']['annotated'] = result['img']['annotated'] + batchObj['current'][type] + 1
+                if batchObj['annotator'] == userid or batchObj['annotator'] == '':
+                    result['batch']['total'] = result['batch']['total'] + 1
             result['img']['left'] = result['img']['total'] - result['img']['annotated']
             result['batch']['left'] = result['batch']['total'] - result['batch']['annotated']
 

@@ -1,0 +1,383 @@
+[Thu Dec 15 18:54:49.072794 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:54:49.238484 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:54:49.451166 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:54:49.493939 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:54:49.756778 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:54:49.823305 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:54:49.984278 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:54:50.207797 2016] [wsgi:error] [pid 12:tid 139967256049408] []
+[Thu Dec 15 18:54:50.368870 2016] [wsgi:error] [pid 12:tid 139967256049408] []
+[Thu Dec 15 18:54:50.534665 2016] [wsgi:error] [pid 12:tid 139967239247616] []
+[Thu Dec 15 18:54:50.692409 2016] [wsgi:error] [pid 12:tid 139967230846720] []
+[Thu Dec 15 18:54:53.365559 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:54:55.658357 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Thu Dec 15 18:54:55.832494 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 18:54:56.128606 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:54:56.309594 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:54:56.466384 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:54:56.647226 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Thu Dec 15 18:54:56.702722 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 18:54:56.959186 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:54:57.115749 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:54:57.333182 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:54:57.402206 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:54:57.573738 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:54:57.765798 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 18:54:57.845220 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:54:58.031258 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:54:58.262351 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:54:58.430534 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:54:58.602236 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:54:58.763919 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:54:58.921945 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:54:59.104044 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:54:59.264096 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:54:59.351580 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 18:54:59.607122 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:54:59.772385 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:54:59.940025 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:00.113332 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Thu Dec 15 18:55:00.271618 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:00.438772 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:01.117002 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 18:55:01.262289 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 18:55:01.409430 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:01.488744 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:01.692692 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:01.773371 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:01.937325 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:02.141902 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:02.312272 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:02.381269 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:02.590524 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:02.755120 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:02.832181 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:03.075906 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:03.133306 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:04.453789 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:05.266451 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:06.007717 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:06.362440 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:06.563072 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:06.709862 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:06.980145 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:07.185854 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:07.343911 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:07.579402 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:07.792056 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:07.947529 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:08.309687 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:08.451731 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:08.653396 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:08.889860 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': False}]
+[Thu Dec 15 18:55:09.110587 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:09.295761 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:09.529267 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:09.738809 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:09.958818 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:10.161501 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:11.141874 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:11.865641 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:12.438281 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:13.064490 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:14.496327 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:35.277958 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:36.050113 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:36.247513 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:36.446591 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:36.596577 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:36.786201 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:36.982335 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:37.162653 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:37.341962 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:37.507565 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:37.708826 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:37.893712 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:38.076849 2016] [wsgi:error] [pid 12:tid 139967222445824] [{u'category': True}]
+[Thu Dec 15 18:55:38.317278 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:38.468358 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:38.683073 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:38.825668 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:38.993244 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:39.180993 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:39.358388 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:39.548906 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:39.724102 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:39.915541 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:40.093429 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:40.280602 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:40.497787 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:40.648954 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Thu Dec 15 18:55:40.908183 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:41.048884 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:41.120328 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Thu Dec 15 18:55:41.120467 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213] Traceback (most recent call last):
+[Thu Dec 15 18:55:41.120543 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2000, in __call__
+[Thu Dec 15 18:55:41.122996 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return self.wsgi_app(environ, start_response)
+[Thu Dec 15 18:55:41.123044 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1991, in wsgi_app
+[Thu Dec 15 18:55:41.123094 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     response = self.make_response(self.handle_exception(e))
+[Thu Dec 15 18:55:41.123128 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Thu Dec 15 18:55:41.123740 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return original_handler(e)
+[Thu Dec 15 18:55:41.123813 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Thu Dec 15 18:55:41.124606 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Thu Dec 15 18:55:41.124655 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1567, in handle_exception
+[Thu Dec 15 18:55:41.124706 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     reraise(exc_type, exc_value, tb)
+[Thu Dec 15 18:55:41.124738 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Thu Dec 15 18:55:41.124779 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return self.handle_error(e)
+[Thu Dec 15 18:55:41.124810 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Thu Dec 15 18:55:41.124851 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     response = self.full_dispatch_request()
+[Thu Dec 15 18:55:41.124881 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Thu Dec 15 18:55:41.124920 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     rv = self.handle_user_exception(e)
+[Thu Dec 15 18:55:41.124950 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Thu Dec 15 18:55:41.124988 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return original_handler(e)
+[Thu Dec 15 18:55:41.125018 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Thu Dec 15 18:55:41.125057 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Thu Dec 15 18:55:41.125087 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Thu Dec 15 18:55:41.125126 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     reraise(exc_type, exc_value, tb)
+[Thu Dec 15 18:55:41.125155 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Thu Dec 15 18:55:41.125193 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return self.handle_error(e)
+[Thu Dec 15 18:55:41.125223 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Thu Dec 15 18:55:41.125261 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     rv = self.dispatch_request()
+[Thu Dec 15 18:55:41.125290 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Thu Dec 15 18:55:41.125329 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return self.view_functions[rule.endpoint](**req.view_args)
+[Thu Dec 15 18:55:41.125358 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 477, in wrapper
+[Thu Dec 15 18:55:41.125417 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     resp = resource(*args, **kwargs)
+[Thu Dec 15 18:55:41.125466 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask/views.py", line 84, in view
+[Thu Dec 15 18:55:41.125648 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return self.dispatch_request(*args, **kwargs)
+[Thu Dec 15 18:55:41.125706 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 587, in dispatch_request
+[Thu Dec 15 18:55:41.125755 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     resp = meth(*args, **kwargs)
+[Thu Dec 15 18:55:41.125788 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/srv/www/app/main.py", line 135, in get
+[Thu Dec 15 18:55:41.125924 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     batch = Batch()
+[Thu Dec 15 18:55:41.125962 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/srv/www/app/main.py", line 40, in __init__
+[Thu Dec 15 18:55:41.126004 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     self.batches = loadJsonFileToData('batch', "/static/data/")
+[Thu Dec 15 18:55:41.126035 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/srv/www/app/main.py", line 32, in loadJsonFileToData
+[Thu Dec 15 18:55:41.126072 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return json.load(jsonData)
+[Thu Dec 15 18:55:41.126102 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+[Thu Dec 15 18:55:41.126372 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     **kw)
+[Thu Dec 15 18:55:41.126412 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+[Thu Dec 15 18:55:41.126454 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     return _default_decoder.decode(s)
+[Thu Dec 15 18:55:41.126485 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+[Thu Dec 15 18:55:41.126746 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+[Thu Dec 15 18:55:41.126801 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]   File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+[Thu Dec 15 18:55:41.126878 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213]     raise ValueError("No JSON object could be decoded")
+[Thu Dec 15 18:55:41.126965 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.210.106.65:44213] ValueError: No JSON object could be decoded
+[Thu Dec 15 18:55:43.263897 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:44.648970 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:45.412249 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:45.977690 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:46.380235 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:46.572973 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 18:55:46.736526 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:47.028226 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:47.257947 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:47.480872 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:47.656300 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:48.007377 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:48.356823 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:48.621275 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': False}]
+[Thu Dec 15 18:55:48.882120 2016] [wsgi:error] [pid 12:tid 139967230846720] [{u'category': True}]
+[Thu Dec 15 18:55:49.153981 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 18:55:49.376629 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:49.561791 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:49.897833 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:50.152483 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:50.343708 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:51.032232 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Thu Dec 15 18:55:52.032885 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Thu Dec 15 18:55:52.678315 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 18:55:53.689206 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Thu Dec 15 21:12:46.844447 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Thu Dec 15 21:12:47.635880 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Thu Dec 15 21:12:50.833326 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 21:12:53.201244 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 21:12:57.057372 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Thu Dec 15 21:13:07.996128 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Thu Dec 15 21:13:13.505768 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Thu Dec 15 21:13:16.559981 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Thu Dec 15 21:13:34.076611 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Fri Dec 16 01:46:41.275189 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Fri Dec 16 01:46:46.359329 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Fri Dec 16 01:46:48.463774 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Fri Dec 16 01:46:50.129017 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Fri Dec 16 01:46:51.945993 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Fri Dec 16 01:46:53.458440 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Fri Dec 16 01:46:58.617400 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Fri Dec 16 01:47:00.395802 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Fri Dec 16 01:47:04.987095 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Fri Dec 16 01:47:09.988646 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Fri Dec 16 01:47:12.806393 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:47:20.282981 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:48:24.809410 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Fri Dec 16 01:48:25.806282 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:48:26.677105 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Fri Dec 16 01:48:36.785664 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Dec 16 01:48:36.785899 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957] Traceback (most recent call last):
+[Fri Dec 16 01:48:36.785979 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2000, in __call__
+[Fri Dec 16 01:48:36.786124 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.wsgi_app(environ, start_response)
+[Fri Dec 16 01:48:36.786168 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1991, in wsgi_app
+[Fri Dec 16 01:48:36.786228 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     response = self.make_response(self.handle_exception(e))
+[Fri Dec 16 01:48:36.786295 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Fri Dec 16 01:48:36.786387 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return original_handler(e)
+[Fri Dec 16 01:48:36.786423 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Fri Dec 16 01:48:36.786491 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Fri Dec 16 01:48:36.786526 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1567, in handle_exception
+[Fri Dec 16 01:48:36.786577 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     reraise(exc_type, exc_value, tb)
+[Fri Dec 16 01:48:36.786614 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Fri Dec 16 01:48:36.786717 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.handle_error(e)
+[Fri Dec 16 01:48:36.786771 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Fri Dec 16 01:48:36.786819 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     response = self.full_dispatch_request()
+[Fri Dec 16 01:48:36.786878 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Fri Dec 16 01:48:36.786925 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     rv = self.handle_user_exception(e)
+[Fri Dec 16 01:48:36.786956 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Fri Dec 16 01:48:36.787004 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return original_handler(e)
+[Fri Dec 16 01:48:36.787059 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Fri Dec 16 01:48:36.787117 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Fri Dec 16 01:48:36.787150 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Fri Dec 16 01:48:36.787190 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     reraise(exc_type, exc_value, tb)
+[Fri Dec 16 01:48:36.787228 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Fri Dec 16 01:48:36.787269 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.handle_error(e)
+[Fri Dec 16 01:48:36.788289 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Fri Dec 16 01:48:36.788346 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     rv = self.dispatch_request()
+[Fri Dec 16 01:48:36.788392 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Fri Dec 16 01:48:36.788477 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.view_functions[rule.endpoint](**req.view_args)
+[Fri Dec 16 01:48:36.788532 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 477, in wrapper
+[Fri Dec 16 01:48:36.788616 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     resp = resource(*args, **kwargs)
+[Fri Dec 16 01:48:36.788677 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/views.py", line 84, in view
+[Fri Dec 16 01:48:36.788760 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.dispatch_request(*args, **kwargs)
+[Fri Dec 16 01:48:36.788823 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 587, in dispatch_request
+[Fri Dec 16 01:48:36.788909 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     resp = meth(*args, **kwargs)
+[Fri Dec 16 01:48:36.788963 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/srv/www/app/main.py", line 135, in get
+[Fri Dec 16 01:48:36.789065 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     batch = Batch()
+[Fri Dec 16 01:48:36.789130 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/srv/www/app/main.py", line 40, in __init__
+[Fri Dec 16 01:48:36.789222 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     self.batches = loadJsonFileToData('batch', "/static/data/")
+[Fri Dec 16 01:48:36.789279 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/srv/www/app/main.py", line 32, in loadJsonFileToData
+[Fri Dec 16 01:48:36.789366 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return json.load(jsonData)
+[Fri Dec 16 01:48:36.789424 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+[Fri Dec 16 01:48:36.789506 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     **kw)
+[Fri Dec 16 01:48:36.789662 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+[Fri Dec 16 01:48:36.789742 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return _default_decoder.decode(s)
+[Fri Dec 16 01:48:36.789778 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+[Fri Dec 16 01:48:36.789837 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+[Fri Dec 16 01:48:36.789871 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+[Fri Dec 16 01:48:36.789932 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     raise ValueError("No JSON object could be decoded")
+[Fri Dec 16 01:48:36.790004 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957] ValueError: No JSON object could be decoded
+[Fri Dec 16 01:49:44.683780 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Fri Dec 16 01:49:47.624957 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:49:49.434532 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:49:50.437017 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Fri Dec 16 01:49:51.332301 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:49:52.185036 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Fri Dec 16 01:49:53.001118 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Fri Dec 16 01:49:53.627664 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Fri Dec 16 01:49:53.712876 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Fri Dec 16 01:49:53.896284 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Dec 16 01:49:53.896391 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957] Traceback (most recent call last):
+[Fri Dec 16 01:49:53.896443 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 2000, in __call__
+[Fri Dec 16 01:49:53.896544 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.wsgi_app(environ, start_response)
+[Fri Dec 16 01:49:53.896579 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1991, in wsgi_app
+[Fri Dec 16 01:49:53.896622 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     response = self.make_response(self.handle_exception(e))
+[Fri Dec 16 01:49:53.896654 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Fri Dec 16 01:49:53.896710 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return original_handler(e)
+[Fri Dec 16 01:49:53.896743 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Fri Dec 16 01:49:53.896798 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Fri Dec 16 01:49:53.896831 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1567, in handle_exception
+[Fri Dec 16 01:49:53.896872 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     reraise(exc_type, exc_value, tb)
+[Fri Dec 16 01:49:53.896902 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Fri Dec 16 01:49:53.896941 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.handle_error(e)
+[Fri Dec 16 01:49:53.896971 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1988, in wsgi_app
+[Fri Dec 16 01:49:53.897009 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     response = self.full_dispatch_request()
+[Fri Dec 16 01:49:53.897039 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1641, in full_dispatch_request
+[Fri Dec 16 01:49:53.897091 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     rv = self.handle_user_exception(e)
+[Fri Dec 16 01:49:53.897121 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 271, in error_router
+[Fri Dec 16 01:49:53.897160 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return original_handler(e)
+[Fri Dec 16 01:49:53.897190 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_cors/extension.py", line 161, in wrapped_function
+[Fri Dec 16 01:49:53.897228 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return cors_after_request(app.make_response(f(*args, **kwargs)))
+[Fri Dec 16 01:49:53.897258 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1544, in handle_user_exception
+[Fri Dec 16 01:49:53.897297 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     reraise(exc_type, exc_value, tb)
+[Fri Dec 16 01:49:53.897327 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 268, in error_router
+[Fri Dec 16 01:49:53.897365 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.handle_error(e)
+[Fri Dec 16 01:49:53.897394 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1639, in full_dispatch_request
+[Fri Dec 16 01:49:53.897432 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     rv = self.dispatch_request()
+[Fri Dec 16 01:49:53.897461 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1625, in dispatch_request
+[Fri Dec 16 01:49:53.897523 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.view_functions[rule.endpoint](**req.view_args)
+[Fri Dec 16 01:49:53.897556 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 477, in wrapper
+[Fri Dec 16 01:49:53.897602 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     resp = resource(*args, **kwargs)
+[Fri Dec 16 01:49:53.897640 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask/views.py", line 84, in view
+[Fri Dec 16 01:49:53.897687 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return self.dispatch_request(*args, **kwargs)
+[Fri Dec 16 01:49:53.897728 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/local/lib/python2.7/dist-packages/flask_restful/__init__.py", line 587, in dispatch_request
+[Fri Dec 16 01:49:53.897771 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     resp = meth(*args, **kwargs)
+[Fri Dec 16 01:49:53.897802 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/srv/www/app/main.py", line 135, in get
+[Fri Dec 16 01:49:53.897848 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     batch = Batch()
+[Fri Dec 16 01:49:53.897880 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/srv/www/app/main.py", line 40, in __init__
+[Fri Dec 16 01:49:53.897919 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     self.batches = loadJsonFileToData('batch', "/static/data/")
+[Fri Dec 16 01:49:53.897957 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/srv/www/app/main.py", line 32, in loadJsonFileToData
+[Fri Dec 16 01:49:53.897996 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return json.load(jsonData)
+[Fri Dec 16 01:49:53.898025 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/__init__.py", line 291, in load
+[Fri Dec 16 01:49:53.898085 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     **kw)
+[Fri Dec 16 01:49:53.898118 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+[Fri Dec 16 01:49:53.898163 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     return _default_decoder.decode(s)
+[Fri Dec 16 01:49:53.898196 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+[Fri Dec 16 01:49:53.898247 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+[Fri Dec 16 01:49:53.898292 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]   File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+[Fri Dec 16 01:49:53.898336 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957]     raise ValueError("No JSON object could be decoded")
+[Fri Dec 16 01:49:53.898399 2016] [wsgi:error] [pid 12:tid 139967340033792] [remote 128.211.254.136:43957] ValueError: No JSON object could be decoded
+[Fri Dec 16 01:49:53.983542 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Fri Dec 16 01:50:06.261601 2016] [wsgi:error] [pid 12:tid 139967340033792] []
+[Fri Dec 16 01:50:13.055205 2016] [wsgi:error] [pid 12:tid 139967256049408] []
+[Fri Dec 16 01:53:48.901192 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Fri Dec 16 01:53:52.410151 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Sun Dec 18 22:12:11.192059 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Sun Dec 18 22:12:13.881988 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:12:14.892448 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Sun Dec 18 22:12:19.069416 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Sun Dec 18 22:12:28.350602 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:12:30.042916 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:12:32.176461 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:12:34.508624 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:12:37.069017 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Sun Dec 18 22:12:40.393988 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:12:44.847431 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Sun Dec 18 22:12:46.373772 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:12:47.863706 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Sun Dec 18 22:12:49.513088 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:12:51.357525 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:12:52.822563 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:12:56.444710 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Sun Dec 18 22:12:58.592777 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:13:01.066491 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Sun Dec 18 22:13:02.493887 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:13:04.191043 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:13:06.249295 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:13:08.176582 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:13:10.965298 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:13:12.700495 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:13:14.283942 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Sun Dec 18 22:13:15.972915 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:13:17.549910 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Sun Dec 18 22:13:19.887365 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:13:21.897210 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:13:25.746945 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:13:31.052570 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:13:33.270482 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:13:35.958637 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:13:38.115184 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Sun Dec 18 22:13:39.916070 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:13:52.124914 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:13:56.457954 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:13:58.846625 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:14:00.649846 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': True}]
+[Sun Dec 18 22:14:02.464414 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:14:04.365359 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:14:06.640748 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:14:10.234379 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Sun Dec 18 22:14:12.273069 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': True}]
+[Sun Dec 18 22:14:19.064979 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': True}]
+[Sun Dec 18 22:14:21.603022 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:14:23.702540 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:14:25.161264 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:14:29.666274 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': True}]
+[Sun Dec 18 22:14:32.385093 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]
+[Sun Dec 18 22:14:34.136869 2016] [wsgi:error] [pid 12:tid 139967256049408] [{u'category': False}]
+[Sun Dec 18 22:14:36.810677 2016] [wsgi:error] [pid 12:tid 139967340033792] [{u'category': False}]
+[Sun Dec 18 22:14:39.495402 2016] [wsgi:error] [pid 12:tid 139967239247616] [{u'category': False}]
+[Sun Dec 18 22:14:42.343390 2016] [wsgi:error] [pid 12:tid 139967247648512] [{u'category': False}]

@@ -1,0 +1,6 @@
+[Wed Jan 04 14:19:55.591542 2017] [wsgi:error] [pid 12:tid 139893251770112] [remote 114.243.50.103:43893] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Wed Jan 04 14:19:55.592028 2017] [wsgi:error] [pid 12:tid 139893251770112] [remote 114.243.50.103:43893] IOError: failed to write data
+[Wed Jan 04 14:20:12.125076 2017] [wsgi:error] [pid 12:tid 139893251770112] [remote 114.243.50.103:4456] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Wed Jan 04 14:20:12.125449 2017] [wsgi:error] [pid 12:tid 139893251770112] [remote 114.243.50.103:4456] IOError: failed to write data
+[Wed Jan 04 14:50:17.852704 2017] [wsgi:error] [pid 12:tid 139893134173952] [remote 114.243.50.103:1384] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Wed Jan 04 14:50:17.853216 2017] [wsgi:error] [pid 12:tid 139893134173952] [remote 114.243.50.103:1384] IOError: failed to write data

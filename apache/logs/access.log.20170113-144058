@@ -1,0 +1,6 @@
+128.211.233.228 - - [13/Jan/2017:14:40:58 +0000] "GET / HTTP/1.1" 500 809 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+128.211.233.228 - - [13/Jan/2017:14:40:59 +0000] "GET /favicon.ico HTTP/1.1" 500 809 "http://hpcg.doudoujay.com:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+128.211.233.228 - - [13/Jan/2017:14:41:00 +0000] "GET / HTTP/1.1" 500 809 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+128.211.233.228 - - [13/Jan/2017:14:41:00 +0000] "GET /favicon.ico HTTP/1.1" 500 809 "http://hpcg.doudoujay.com:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+128.211.233.228 - - [13/Jan/2017:14:41:01 +0000] "GET / HTTP/1.1" 500 809 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"
+128.211.233.228 - - [13/Jan/2017:14:41:01 +0000] "GET /favicon.ico HTTP/1.1" 500 809 "http://hpcg.doudoujay.com:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36"

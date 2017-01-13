@@ -1,0 +1,48 @@
+[Fri Jan 13 14:40:58.361130 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Target WSGI script '/srv/www/app/apache/apache.wsgi' cannot be loaded as Python module.
+[Fri Jan 13 14:40:58.361381 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Jan 13 14:40:58.361442 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] Traceback (most recent call last):
+[Fri Jan 13 14:40:58.361489 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]   File "/srv/www/app/apache/apache.wsgi", line 10, in <module>
+[Fri Jan 13 14:40:58.361602 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]     from main import app as application
+[Fri Jan 13 14:40:58.361640 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]   File "/srv/www/app/main.py", line 15, in <module>
+[Fri Jan 13 14:40:58.361772 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]     imgData = os.listdir(ROOT_DIR + "/static/data/imgData")
+[Fri Jan 13 14:40:58.361827 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] OSError: [Errno 2] No such file or directory: '/srv/www/app/static/data/imgData'
+[Fri Jan 13 14:40:59.398107 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Target WSGI script '/srv/www/app/apache/apache.wsgi' cannot be loaded as Python module.
+[Fri Jan 13 14:40:59.398184 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Jan 13 14:40:59.398227 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] Traceback (most recent call last):
+[Fri Jan 13 14:40:59.398267 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]   File "/srv/www/app/apache/apache.wsgi", line 10, in <module>
+[Fri Jan 13 14:40:59.398321 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]     from main import app as application
+[Fri Jan 13 14:40:59.398352 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]   File "/srv/www/app/main.py", line 15, in <module>
+[Fri Jan 13 14:40:59.398390 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]     imgData = os.listdir(ROOT_DIR + "/static/data/imgData")
+[Fri Jan 13 14:40:59.398433 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] OSError: [Errno 2] No such file or directory: '/srv/www/app/static/data/imgData'
+[Fri Jan 13 14:41:00.173705 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Target WSGI script '/srv/www/app/apache/apache.wsgi' cannot be loaded as Python module.
+[Fri Jan 13 14:41:00.173781 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Jan 13 14:41:00.173822 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] Traceback (most recent call last):
+[Fri Jan 13 14:41:00.173862 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]   File "/srv/www/app/apache/apache.wsgi", line 10, in <module>
+[Fri Jan 13 14:41:00.173933 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]     from main import app as application
+[Fri Jan 13 14:41:00.173967 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]   File "/srv/www/app/main.py", line 15, in <module>
+[Fri Jan 13 14:41:00.174006 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697]     imgData = os.listdir(ROOT_DIR + "/static/data/imgData")
+[Fri Jan 13 14:41:00.174049 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:1697] OSError: [Errno 2] No such file or directory: '/srv/www/app/static/data/imgData'
+[Fri Jan 13 14:41:00.745677 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390] mod_wsgi (pid=12): Target WSGI script '/srv/www/app/apache/apache.wsgi' cannot be loaded as Python module.
+[Fri Jan 13 14:41:00.745833 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Jan 13 14:41:00.745869 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390] Traceback (most recent call last):
+[Fri Jan 13 14:41:00.745893 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390]   File "/srv/www/app/apache/apache.wsgi", line 10, in <module>
+[Fri Jan 13 14:41:00.745934 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390]     from main import app as application
+[Fri Jan 13 14:41:00.745944 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390]   File "/srv/www/app/main.py", line 15, in <module>
+[Fri Jan 13 14:41:00.745962 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390]     imgData = os.listdir(ROOT_DIR + "/static/data/imgData")
+[Fri Jan 13 14:41:00.745987 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:41390] OSError: [Errno 2] No such file or directory: '/srv/www/app/static/data/imgData'
+[Fri Jan 13 14:41:01.164730 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390] mod_wsgi (pid=12): Target WSGI script '/srv/www/app/apache/apache.wsgi' cannot be loaded as Python module.
+[Fri Jan 13 14:41:01.164807 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Jan 13 14:41:01.164848 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390] Traceback (most recent call last):
+[Fri Jan 13 14:41:01.164889 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390]   File "/srv/www/app/apache/apache.wsgi", line 10, in <module>
+[Fri Jan 13 14:41:01.164943 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390]     from main import app as application
+[Fri Jan 13 14:41:01.164974 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390]   File "/srv/www/app/main.py", line 15, in <module>
+[Fri Jan 13 14:41:01.165013 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390]     imgData = os.listdir(ROOT_DIR + "/static/data/imgData")
+[Fri Jan 13 14:41:01.165057 2017] [wsgi:error] [pid 12:tid 140319392347904] [remote 128.211.233.228:41390] OSError: [Errno 2] No such file or directory: '/srv/www/app/static/data/imgData'
+[Fri Jan 13 14:41:01.657879 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Target WSGI script '/srv/www/app/apache/apache.wsgi' cannot be loaded as Python module.
+[Fri Jan 13 14:41:01.657952 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] mod_wsgi (pid=12): Exception occurred processing WSGI script '/srv/www/app/apache/apache.wsgi'.
+[Fri Jan 13 14:41:01.657999 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] Traceback (most recent call last):
+[Fri Jan 13 14:41:01.658042 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]   File "/srv/www/app/apache/apache.wsgi", line 10, in <module>
+[Fri Jan 13 14:41:01.658102 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]     from main import app as application
+[Fri Jan 13 14:41:01.658135 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]   File "/srv/www/app/main.py", line 15, in <module>
+[Fri Jan 13 14:41:01.658176 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697]     imgData = os.listdir(ROOT_DIR + "/static/data/imgData")
+[Fri Jan 13 14:41:01.658222 2017] [wsgi:error] [pid 12:tid 140319291545344] [remote 128.211.233.228:1697] OSError: [Errno 2] No such file or directory: '/srv/www/app/static/data/imgData'
